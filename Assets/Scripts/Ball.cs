@@ -60,4 +60,4 @@ public class Ball : MonoBehaviour
             rb2d.linearVelocity *= speedMultiplier;
         }
     }
-}
+} 
