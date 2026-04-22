@@ -3,7 +3,7 @@
 This is my first unity and game ever built! I'll be documenting my journey into learning the basic foundamentals of game development!
 A classic 2D Pong clone built using the Unity Engine. This project serves as a foundational exercise in understanding Unity's 2D physics, input handling, and basic game loops.
 
-<img width="978" height="429" alt="image" src="https://github.com/user-attachments/assets/4cc99099-9e2c-4d73-bb29-27870cb59d0c" />
+<img width="980" height="377" alt="image" src="https://github.com/user-attachments/assets/cb99c2d9-5049-46a9-a162-f54e21719333" />
 
 ## Current Features
 
